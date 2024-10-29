@@ -17,6 +17,17 @@ Virtual Character: The cafe’s barista, an animated, interactive character, wil
 Animations: The barista has fluid, lifelike animations, including gestures, subtle expressions, and body language adjustments to enhance immersion.
 Response to Player Actions: The barista reacts to player interactions (e.g., looking at specific items or initiating conversation) by acknowledging them with tailored responses, offering insights, or even posing questions to simulate authentic human interaction.
 
+# Requirements
+
+Unity 2022.3.20f1
+Android device with min OS version 'Oreo' 
+
+# Instructions 
+
+Open "HelloCardboard" scene located at "Assets/Samples/Google Cardboard XR Plugin for Unity/1.26.0/Hello Cardboard/Scenes/HelloCardboard.unity"
+
+In order to run this project you can either build and deploy manually to your device or let unity do it for you, however additional configuration might be required depending on your device.
+
 # Disclaimer Note
 
 This project, VRCafe, was developed for a specific assignment in relation to coursera course "Building Interactive 3D Characters and Social VR" + "3D Interaction Design Virtual Reality" . It is publicly available as a study resource or inspiration for other developers interested in creating virtual reality experiences. Please do not copy or present this project as your own. The use of the code and resources shared here should be limited to educational and personal development purposes.
