@@ -19,4 +19,4 @@ Response to Player Actions: The barista reacts to player interactions (e.g., loo
 
 # Disclaimer Note
 
-This project, VRCafe, was developed for a specific assignment. It is publicly available as a study resource or inspiration for other developers interested in creating virtual reality experiences. Please do not copy or present this project as your own. The use of the code and resources shared here should be limited to educational and personal development purposes.
+This project, VRCafe, was developed for a specific assignment in relation to coursera course "Building Interactive 3D Characters and Social VR" + "3D Interaction Design Virtual Reality" . It is publicly available as a study resource or inspiration for other developers interested in creating virtual reality experiences. Please do not copy or present this project as your own. The use of the code and resources shared here should be limited to educational and personal development purposes.
