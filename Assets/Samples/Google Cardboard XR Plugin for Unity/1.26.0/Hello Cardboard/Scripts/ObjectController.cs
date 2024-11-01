@@ -19,6 +19,7 @@
 using System.Collections;
 using UnityEngine;
 
+
 /// <summary>
 /// Controls target objects behaviour.
 /// </summary>
@@ -44,6 +45,8 @@ public class ObjectController : MonoBehaviour
 
     private Renderer _myRenderer;
     private Vector3 _startingPosition;
+
+    public GameObject _player;
 
     /// <summary>
     /// Start is called before the first frame update.
@@ -86,6 +89,7 @@ public class ObjectController : MonoBehaviour
     /// </summary>
     public void OnPointerEnter()
     {
+        _player.transform.position = this.transform.position;
         SetMaterial(true);
     }
 
