@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.yourcompany.yourapp">
+    <application>
+        ...
+    </application>
+    <!-- Declarar el permiso de micrófono -->
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+</manifest>

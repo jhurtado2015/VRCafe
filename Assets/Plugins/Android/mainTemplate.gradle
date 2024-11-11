@@ -29,6 +29,7 @@ android {
         versionCode **VERSIONCODE**
         versionName '**VERSIONNAME**'
         consumerProguardFiles 'proguard-unity.txt'**USER_PROGUARD**
+	manifestPlaceholders = [ micPermission: "android.permission.RECORD_AUDIO" ]
     }
 
     lintOptions {

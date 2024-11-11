@@ -61,6 +61,9 @@ public class GazeTeleportation : MonoBehaviour
     {
         TriggerFadeAndMove();
         SetMaterial(true);
+        
+        
+        
     }
 
     /// <summary>
